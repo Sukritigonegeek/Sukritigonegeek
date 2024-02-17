@@ -9,8 +9,8 @@
 
 # 📄 Know about my experiences:
 <p align="left">
-<a href="(https://docs.google.com/document/d/1lG1e0gP9uwa9Nlfjwg65ozdtixTFgvVgte8WTqWreik/edit)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="sukritidam_resume" height="30" width="40" /></a> 
-<a href="(https://www.dropbox.com/scl/fi/6dpdej9uf08fi3dodngj7/Sukriti-Dam-Resume-2024.pdf?rlkey=ot7z2bdozhabdk9m02rn2d3y4&dl=0))" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dropbox.svg" alt="sukritidam_resume" height="30" width="40" /></a> 
+<a href="https://docs.google.com/document/d/1lG1e0gP9uwa9Nlfjwg65ozdtixTFgvVgte8WTqWreik/edit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="sukritidam_resume" height="30" width="40" /></a> 
+<a href="https://www.dropbox.com/scl/fi/6dpdej9uf08fi3dodngj7/Sukriti-Dam-Resume-2024.pdf?rlkey=ot7z2bdozhabdk9m02rn2d3y4&dl=0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dropbox.svg" alt="sukritidam_resume" height="30" width="40" /></a> 
 <br>
 </p>
 
