@@ -2,9 +2,11 @@
 <h4 align="center">A passionate Data Analyst from Bengaluru, India.</h4>
 
 # 💫 About Me:
-<p align="left">
+
 👀 I’m interested in data analysis, and I love learning about new things!<br>
-  🌱 I’m currently learning more about Python and Advanced SQL.<br>📫 Reach me via mail at sukritidam@gmail.com.
+🌱 I’m currently learning more about **Python and Advanced SQL**.<br>
+👨‍💻 All of my projects are available at [Projects](https://github.com/Sukritigonegeek/Projects).<br>
+📫 Reach me via mail at  sukritidam@gmail.com.
 <br>
 </p>
 
