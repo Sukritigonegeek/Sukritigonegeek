@@ -4,7 +4,7 @@
 # 💫 About Me:
 
 👀 I’m interested in data analysis, and I love learning about new things!<br>
-🌱 I’m currently learning more about **Python and Advanced SQL**.<br>
+🌱 Skilled in **Advanced PostgreSQL, Statistics and Tableau** , I’m currently learning more about **Python and Machine Learning**.<br>
 👨‍💻 All of my projects are available at [Projects](https://github.com/Sukritigonegeek/Projects).<br>
 📫 Reach me via mail at  sukritidam@gmail.com.
 <br>
